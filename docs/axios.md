@@ -1,4 +1,8 @@
 
+# Notice
+- 跨域
+
+
 # proxyTable
 
 开发模式下允许访问多个 API 服务器。
